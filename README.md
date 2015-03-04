@@ -9,3 +9,4 @@ What this simple server do is:
 * Response to the user's subscribtion event
 * Response to user's help message request
 * Response to general text interaction
+test
